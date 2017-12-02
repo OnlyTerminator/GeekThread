@@ -3,7 +3,7 @@ Android ThreadPool的封装
 ## 使用方法
 在项目的build.gradle里面加上引用：
 ```java
-compile 'com.geet.thread:thread-pool:1.0'
+compile 'com.geek.thread:thread-pool:1.0.1'
 ```
 ## 方法说明
 ```java
