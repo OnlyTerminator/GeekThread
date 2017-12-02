@@ -20,5 +20,5 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
-    implementation project(':ThreadLibrary')
+    implementation 'com.geek.thread:thread-pool:1.0.1'
 }
